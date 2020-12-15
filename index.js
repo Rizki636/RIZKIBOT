@@ -8,7 +8,7 @@ const XPTN = 'RIZKI'; // JANGAN DI UBAH NNTI EROR
 const instagram = 'https://instagram.com/rizki_ridho636'; // JANGAN DI UBAH NNTI EROR
 const nomer = 'https://Wa.me/6287840411119'; // JANGAN DI UBAH NANTI EROR
 const aktif = 'Sesuai Selera'; // DI GANTI AUTO EROR
-const groupwa = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // DI GANTI AUTO EROR
+const groupwa = 'https://chat.whatsapp.com/J5B5PAxJPzR0enzh8Gc0tn'; // DI GANTI AUTO EROR
 const youtube = 'https://www.youtube.com/c/26RizkiRidhoPratama'; // DI GANTI AUTO EROR
 //
 const qrcode = require("qrcode-terminal");
@@ -174,7 +174,7 @@ else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
 }
 else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6287840411119* ' ,MessageType.text);
 }
 else if (text == 'Woi'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
